@@ -16,6 +16,14 @@ public class Casadepatos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Matrimoniocivil laonda;
+        laonda=  new Matrimoniocivil();
+        laonda.Juez="los declaro empatados";
+        laonda.Pata="acepto";
+        laonda.pato="rico no";
+        laonda.losguevosdelpato=10000000;
+        
+        laonda.uyuyui();
     }
     
 }
